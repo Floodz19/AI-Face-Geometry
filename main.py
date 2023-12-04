@@ -2,7 +2,7 @@ import cv2
 import dlib
 import numpy as np
 
-print("Press 'q' to load Video Capture") 
+print('Loading...')
 
 # Face detector [Switched to Dlib facial landmark predictor]
 face_detector = dlib.get_frontal_face_detector()
