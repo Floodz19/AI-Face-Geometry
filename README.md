@@ -1,7 +1,8 @@
-# AI Face analyzer
+# AI Face Geometry Calculator
 
-[Draft] software that identifies facial structure and attributes (eye color, jawline, face symmetry, etc), and makes reccomendations to improve your look/style
+Python code that accurately detects a user's eyes, face, and other features to Calculate Bilateral Face Geometry and Canthal Tilt.
 
-https://www.mysurgerywebsite.co.uk/website/IGP580/files/facial_aesthetics2.pdf
+Project moved from Python code [Visual Studio] --> Swift code [Xcode]
+Repository name : AI-Face-Geometry --> Aesthesa
 
 
